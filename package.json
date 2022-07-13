@@ -1,0 +1,16 @@
+{
+  "name": "ce9c974b287346dbeae34c0e85f8175a-421b7e4ce8fca2ff8dd119666a89057b216aff0c",
+  "version": "1.0.0",
+  "description": "",
+  "main": "DiscordMirror.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "selfcore": "^1.1.1"
+  }
+}
